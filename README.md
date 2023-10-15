@@ -8,7 +8,6 @@ The technology of connecting the world and people.
   <li>IT System Engineering (Windows Server, Microsoft SQL Server)</li>
   <li>Cloud Infrastructure Engineering (Microsoft Azure)</li>
   <li>Full-stack development (.NET, C++, Python)</li>
-  <li>Digital</li>
 </ul>
 <br>
 <br>
