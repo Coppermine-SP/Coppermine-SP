@@ -2,7 +2,7 @@
 The technology of connecting the world and people.
 
 <hr/>
-<p><strong>Expertise:</strong></p>
+<p><strong>Expertise at:</strong></p>
 <ul>
   <li>IP-Network Infrastructure Engineering (UniFi, Cisco)</li>
   <li>IT System Engineering (Windows Server, Microsoft SQL Server)</li>
