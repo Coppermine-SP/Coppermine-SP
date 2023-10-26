@@ -5,7 +5,7 @@ The technology of connecting the world and people.
 <p><strong>Expertise at:</strong></p>
 <ul>
   <li>IP-Network Infrastructure Engineering (UniFi, Cisco)</li>
-  <li>IT System Engineering (Windows Server, Microsoft SQL Server)</li>
+  <li>Server Engineering (Windows Server, Microsoft SQL Server)</li>
   <li>Cloud Infrastructure Engineering (Microsoft Azure)</li>
   <li>Full-stack development (.NET, C++, Python)</li>
 </ul>
