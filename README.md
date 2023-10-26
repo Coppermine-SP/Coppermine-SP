@@ -7,7 +7,7 @@ The technology of connecting the world and people.
   <li>IP-Network Infrastructure Engineering (UniFi, Cisco)</li>
   <li>Server Engineering (Windows Server, Microsoft SQL Server)</li>
   <li>Cloud Infrastructure Engineering (Microsoft Azure)</li>
-  <li>Full-stack software development (.NET, C++, Python)</li>
+  <li>Full-stack Software Development (.NET, C++, Python)</li>
 </ul>
 <br>
 <br>
