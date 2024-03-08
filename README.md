@@ -7,7 +7,7 @@ Connecting people and the world through technology.
   <li>IP-Network Infrastructure Engineering: UniFi, Cisco Systems</li>
   <li>Server Engineering: Windows Server, Ubuntu Server, RHEL</li>
   <li>Cloud Infrastructure Engineering: Microsoft Azure</li>
-  <li>Full-stack Software Development: .NET, C++, Python</li>
+  <li>Full-stack Software Development: .NET, C++, Python, Swift</li>
 </ul>
 <br>
 <br>
