@@ -1,5 +1,5 @@
 <h3>세상과 사람을 연결하는 기술.</h3>
-The technology of connecting between the world and people.
+Connecting people and the world through technology.
 
 <hr/>
 <p><strong>Expertise at:</strong></p>
