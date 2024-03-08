@@ -4,10 +4,10 @@ Connecting people and the world through technology.
 <hr/>
 <p><strong>Expertise in:</strong></p>
 <ul>
-  <li>IP-Network Infrastructure Engineering (UniFi, Cisco)</li>
-  <li>Server Engineering (Windows Server, Microsoft SQL Server)</li>
-  <li>Cloud Infrastructure Engineering (Microsoft Azure)</li>
-  <li>Full-stack Software Development (.NET, C++, Python)</li>
+  <li>IP-Network Infrastructure Engineering: UniFi, Cisco Systems</li>
+  <li>Server Engineering: Windows Server, Ubuntu Server, RHEL</li>
+  <li>Cloud Infrastructure Engineering: Microsoft Azure</li>
+  <li>Full-stack Software Development: .NET, C++, Python</li>
 </ul>
 <br>
 <br>
