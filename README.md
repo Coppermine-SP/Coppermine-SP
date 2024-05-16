@@ -2,6 +2,7 @@
 <span>세상과 사람을 연결하는 기술.</span>
 
 <hr>
+<p>Undergraduate at Dept. of Computer Science and Engineering.</p>
 <p><strong>Interested in:</strong></p>
 <ul>
   <li>IT Infrastructure Hardware and Software</li>
