@@ -1,16 +1,15 @@
-<h3>세상과 사람을 연결하는 기술.</h3>
-Connecting people and the world through technology.
+<h3>Coppermine-SP</h3>
+<span>세상과 사람을 연결하는 기술.</span>
 
-<hr/>
-<p><strong>Expertise in:</strong></p>
+<hr>
+<p><strong>Interested in:</strong></p>
 <ul>
-  <li>IP-Network Infrastructure Engineering: UniFi, Cisco Systems</li>
-  <li>Server Engineering: Windows Server, Ubuntu Server, RHEL</li>
-  <li>Cloud Infrastructure Engineering: Microsoft Azure</li>
-  <li>Full-stack Software Development: .NET, C++, Python, Swift</li>
+  <li>IT Infrastructure Hardware and Software</li>
+  <li>Software Development</li>
+  <li>Cinematography and Photography</li>
+  <li>Aviation</li>
 </ul>
-<br>
-<br>
+<h1></h1>
 <p float="left">
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" style="height:25px;">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" style="height:25px;">
