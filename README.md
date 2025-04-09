@@ -3,7 +3,7 @@
 
 <hr>
 <p>Undergraduate at Dept. of Computer Science and Engineering.</p>
-<p><strong>Interested in:</strong></p>
+<p><strong>Interested:</strong></p>
 <ul>
   <li>IT Infrastructure Hardware and Software</li>
   <li>Software Development</li>
