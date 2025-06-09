@@ -6,7 +6,7 @@
 <p><strong>Interested:</strong></p>
 <ul>
   <li>IT Infrastructure Hardware and Software</li>
-  <li>Software Development</li>
+  <li>Full-Stack Software Development</li>
   <li>Cinematography and Photography</li>
   <li>Aviation</li>
 </ul>
