@@ -2,7 +2,11 @@
 <span>세상과 사람을 연결하는 기술.</span>
 
 <hr>
-<p>Active Duty Service in the Republic of Korea Navy (2025.10 ~ 2027.06)</p>
+<ul>
+  <li>Changwon National Univ. - Information and Communication Engineering (2023 ~ 2024)</li>
+  <li>Changwon National Univ. - Computer Engineering</li>
+  <li>Active Duty Service in the Republic of Korea Navy (2025.10 ~ 2027.06)</li>
+</ul>
 <p><strong>Interested:</strong></p>
 <ul>
   <li>IT Infrastructure Hardware and Software</li>
