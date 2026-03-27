@@ -7,7 +7,7 @@
   <li>Changwon National Univ. - Computer Engineering</li>
   <li>Active Duty Service in the Republic of Korea Navy (2025.10 ~ 2027.06)</li>
 </ul>
-<p><strong>Interested:</strong></p>
+<p><strong>Interests:</strong></p>
 <ul>
   <li>IT Infrastructure Hardware and Software</li>
   <li>Full-Stack Software Development</li>
