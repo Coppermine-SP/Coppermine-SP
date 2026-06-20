@@ -4,7 +4,7 @@
 <hr>
 <ul>
   <li>Changwon National Univ. - Information and Communication Engineering (2023 ~ 2024)</li>
-  <li>Changwon National Univ. - Computer Engineering</li>
+  <li>Changwon National Univ. - Computer Engineering (2025 ~ )</li>
   <li>Active Duty Service in the Republic of Korea Navy (2025.10 ~ 2027.06)</li>
 </ul>
 <p><strong>Interests:</strong></p>
