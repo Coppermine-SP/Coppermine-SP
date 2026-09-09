@@ -14,8 +14,15 @@
   <li>Cinematography and Photography</li>
   <li>Aviation</li>
 </ul>
+<p float="left">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/CoppermineSP-3925/A7342ECC1440EEEA?sharingId=D7C7168A83772916">
+      <img style="width:80px" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"/>
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/CoppermineSP-3925/A7342ECC1440EEEA?sharingId=D7C7168A83772916">
+      <img style="width:80px" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"/>
+  </a>
+</p>
 
-<img style="width:80px" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"/>
 <h1></h1>
 <p float="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" style="height:25px;">
