@@ -16,10 +16,10 @@
 </ul>
 <p float="left">
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/CoppermineSP-3925/A7342ECC1440EEEA?sharingId=D7C7168A83772916">
-      <img style="width:80px" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"/>
+      <img alt="Windows Server Hybrid Administrator Associate" style="width:80px" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"/>
   </a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/CoppermineSP-3925/A7342ECC1440EEEA?sharingId=D7C7168A83772916">
-      <img style="width:80px" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"/>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/CoppermineSP-3925/E4E52AB9ACE3D5DA?sharingId=D7C7168A83772916">
+      <img alt="Azure Administrator Associate" style="width:80px" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"/>
   </a>
 </p>
 
