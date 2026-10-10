@@ -2,17 +2,17 @@
 <span>세상과 사람을 연결하는 기술.</span>
 
 <hr>
+<p><strong>Experiences:</strong></p>
 <ul>
-  <li>Changwon National Univ. - Information and Communication Engineering (2023 ~ 2024)</li>
-  <li>Changwon National Univ. - Computer Engineering (2025 ~ )</li>
-  <li>Active Duty Service in the Republic of Korea Navy (2025.10 ~ 2027.06)</li>
+  <li>Changwon National Univ. - Information and Communication Engineering (2023-2024)</li>
+  <li>Changwon National Univ. - Computer Engineering (2025-Present)</li>
+  <li>Active-Duty Service in the Republic of Korea Navy (CERT, October 2025-June 2027)</li>
 </ul>
-<p><strong>Interests:</strong></p>
+<p><strong>Specializations:</strong></p>
 <ul>
-  <li>IT Infrastructure Hardware and Software</li>
+  <li>Hybrid Cloud Infrastructure Architecture and Administration</li>
+  <li>Network Routing, Switching and Cybersecurity Operations</li>
   <li>Full-Stack Software Development</li>
-  <li>Cinematography and Photography</li>
-  <li>Aviation</li>
 </ul>
 <p float="left">
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/CoppermineSP-3925/A7342ECC1440EEEA?sharingId=D7C7168A83772916">
